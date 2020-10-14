@@ -48,7 +48,7 @@ Este repositório contém o código produzido nas videoaulas do mini curso.
 Faça um clone deste repositório e instale no seu ambiente de desenvolvimento usando o seguinte comando no seu terminal (escolha um diretório apropriado):
 
 ```
-git clone https://github.com/aluiziodeveloper/mini-curso-node-typescript.git
+git clone https://github.com/aluiziodeveloper/mini-curso-gratuito-node-typescript.git
 ```
 
 Após clonar o conteúdo do repositório, acesse o diretório criado e efetue a instalação das dependências:
