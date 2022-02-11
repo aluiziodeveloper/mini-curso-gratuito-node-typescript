@@ -59,10 +59,12 @@ npm install
 
 Após essa instalação execute a aplicação com o comando `npm run dev`. Acesse a url `http://localhost:3333` no browser.
 
-### Contato
+## Redes Sociais
 
 [Site Aluizio Developer](https://aluiziodeveloper.com.br)
 
-[Instagram](https://www.instagram.com/smartcontacts/)
-
 [YouTube](https://www.youtube.com/jorgealuizio)
+
+[Servidor no Discord](https://discord.gg/3J87BMz5fD)
+
+[LinkedIn](https://www.linkedin.com/in/jorgealuizio/)
